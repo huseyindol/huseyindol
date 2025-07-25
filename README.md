@@ -14,7 +14,7 @@
 
 - 💬 **JavaScript, Typescript, ReactJS, NextJS, Redux, HTML, CSS, Bootstrap, Tailwind, MUI, SEO, Nodejs and JAVA SpringBoot **
 
-- 📫 How to reach me **huseyindolv@gmail.com**
+- 📫 How to reach me **huseyindol@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
